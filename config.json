@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3306,
+  "database_name": "11pointer",
+  "db_username": "root",
+  "db_password": "MySQLroot",
+  "max_open_connections": 25,
+  "max_idle_connections": 3,
+  "max_connection_lifetime_seconds": 300
+}
